@@ -17,7 +17,7 @@
 
 ### Lab: Intro To Outcomes
 
-|  |   |
+|  |  |
 | :---: | :---: |
 
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/oc-intro/) |
