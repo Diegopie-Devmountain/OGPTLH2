@@ -19,7 +19,6 @@
 
 |  |  |
 | :---: | :---: |
-
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/oc-intro/) |
 
 > [Back to Table of Contents](#table-of-contents)
