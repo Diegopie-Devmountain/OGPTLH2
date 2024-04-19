@@ -36,5 +36,8 @@
 |  |  |
 | :---: | :---: |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-git/) |
+| markdown lint | [Link](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) |
+| Markdown All in One | [Link](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) |
+ 
 
 > [Back to Table of Contents](#table-of-contents)
