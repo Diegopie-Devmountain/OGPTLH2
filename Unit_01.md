@@ -106,6 +106,7 @@
 | Slides | [Link](https://ed.devmountain.com/materials/ogptlh2/slides/wb-arrays-looping/) |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-arrays-looping/) |
 | dmget | `dmget wb-arrays-looping --demo` |
+| Replit Demos | [Link](https://replit.com/@mbodily/JavaScript-1-and-2#index.js) |
 
 ### Code Challenge: Max of Two
 
