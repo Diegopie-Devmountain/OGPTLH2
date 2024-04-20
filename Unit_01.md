@@ -87,6 +87,7 @@
 | Slides | [Link](https://ed.devmountain.com/materials/ogptlh2/slides/wb-js-intro/) |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-js-intro/) |
 | dmget | `dmget wb-js-intro --demo` |
+| Reserved Keywords | [Link](https://www.techonthenet.com/js/reserved_words.php) |
 
 ### Lab: Mars Adventure
 
