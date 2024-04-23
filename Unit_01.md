@@ -88,6 +88,7 @@
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-js-intro/) |
 | dmget | `dmget wb-js-intro --demo` |
 | Reserved Keywords | [Link](https://www.techonthenet.com/js/reserved_words.php) |
+| Strings | [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) |
 
 ### Lab: Mars Adventure
 
@@ -121,5 +122,6 @@
 | :---: | :---: |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-arrays-looping/) |
 | dmget | `dmget wb-arrays-looping` |
+| Loops | [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement) |
 
 > [Back to Table of Contents](#table-of-contents)
