@@ -1,4 +1,4 @@
-# Table of Contents
+<!-- # Table of Contents
 
 - [Table of Contents](#table-of-contents)
   - [01.02 - The Shell](#0102---the-shell)
@@ -19,4 +19,4 @@
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-git/) |
 
 > [Back to Table of Contents](#table-of-contents)
-
+ -->

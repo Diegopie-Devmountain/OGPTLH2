@@ -1,4 +1,4 @@
-# Table of Contents
+<!-- # Table of Contents
 
 - [Table of Contents](#table-of-contents)
   - [01.03 - 	Intro to JavaScript](#0102---intro-to-javascript)
@@ -18,4 +18,4 @@
 | :---: | :---: |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-mars/) |
 
-> [Back to Table of Contents](#table-of-contents)
+> [Back to Table of Contents](#table-of-contents) -->

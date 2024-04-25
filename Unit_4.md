@@ -1,4 +1,4 @@
-# Table of Contents
+<!-- # Table of Contents
 
 - [Table of Contents](#table-of-contents)
   - [01.04 - Arrays and Looping](#0104--arrays-and-looping)
@@ -18,4 +18,4 @@
 | :---: | :---: |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-arrays-looping/) |
 
-> [Back to Table of Contents](#table-of-contents)
+> [Back to Table of Contents](#table-of-contents) -->

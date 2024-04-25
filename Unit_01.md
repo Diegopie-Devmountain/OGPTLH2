@@ -11,6 +11,8 @@
   - [01.04 - Arrays and Looping](#0104---arrays-and-looping)
     - [Code Challenge: Max of Two](#code-challenge-max-of-two)
     - [Lab: Arrays and Looping](#lab-arrays-and-looping)
+  - [01.05 - Functions, Debugging, and Node.js](#0105---functions-debugging-and-nodejs)
+    - [Lab: Calculator](#lab-calculator)
 
 ## 01.01 - Web Development Orientation
 
@@ -123,5 +125,26 @@
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-arrays-looping/) |
 | dmget | `dmget wb-arrays-looping` |
 | Loops | [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement) |
+
+> [Back to Table of Contents](#table-of-contents)
+
+## 01.05 - Functions, Debugging, and Node.js
+
+|  |  |
+| :---: | :---: |
+| Lecture Recording | [To Do]() |
+| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-functions-debugging/) |
+| dmget | `dmget wb-functions-debugging --demo` |
+| Convert Numbers to Strings | [Link](https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/) |
+| Math Object | [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) |
+| Open in Browser | [Link](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) |
+| Live Server | [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |
+
+### Lab: Calculator
+
+|  |  |
+| :---: | :---: |
+| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-calculator/) |
+| dmget | `dmget wb-calculator` |
 
 > [Back to Table of Contents](#table-of-contents)
