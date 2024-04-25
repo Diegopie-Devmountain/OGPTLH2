@@ -34,7 +34,7 @@
 
 |  |  |
 | :---: | :---: |
-| Lecture Recording | [Link]() |
+| Lecture Recording | [Link](https://strategiced.zoom.us/rec/share/uP_UdgxzwkI3Q0XMRMuDK2hZCvI8eNLKbFhTqmGzPW1PFfd_Y0iey5I6R0Lda5A.wZ5DSelMyRBtsC-w?startTime=1713485077000) |
 | Slides | [Link](https://ed.devmountain.com/materials/ogptlh2/slides/wb-shell/) |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-shell/) |
 | dmget | `dmget wb-shell --demo` |
@@ -85,7 +85,8 @@
 
 |  |  |
 | :---: | :---: |
-| Lecture Recording | [To Do]() |
+| Lecture Recording (Diego) | [To Do](https://strategiced.zoom.us/rec/share/uP_UdgxzwkI3Q0XMRMuDK2hZCvI8eNLKbFhTqmGzPW1PFfd_Y0iey5I6R0Lda5A.wZ5DSelMyRBtsC-w?startTime=1713494217000) |
+| Lecture Recording (Matt) | [To Do]() |
 | Slides | [Link](https://ed.devmountain.com/materials/ogptlh2/slides/wb-js-intro/) |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-js-intro/) |
 | dmget | `dmget wb-js-intro --demo` |
@@ -132,7 +133,7 @@
 
 |  |  |
 | :---: | :---: |
-| Lecture Recording | [To Do]() |
+| Lecture Recording | [To Do](https://strategiced.zoom.us/rec/share/fya8gIgk59yZOPSYe3AUZL_bvB_Pm7-hh4tRf_2ob0njH4LvlWUbxGrPjpPOx4m3.ouQnrcE-9RPT_Qik?startTime=1713920129000) |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-functions-debugging/) |
 | dmget | `dmget wb-functions-debugging --demo` |
 | Convert Numbers to Strings | [Link](https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/) |
