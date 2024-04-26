@@ -13,6 +13,9 @@
     - [Lab: Arrays and Looping](#lab-arrays-and-looping)
   - [01.05 - Functions, Debugging, and Node.js](#0105---functions-debugging-and-nodejs)
     - [Lab: Calculator](#lab-calculator)
+  - [01.06 - Objects](#0106---objects)
+    - [Code Along: Objects](#code-along-objects)
+    - [Lab: Objects](#lab-objects)
 
 ## 01.01 - Web Development Orientation
 
@@ -147,5 +150,30 @@
 | :---: | :---: |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-calculator/) |
 | dmget | `dmget wb-calculator` |
+
+> [Back to Table of Contents](#table-of-contents)
+
+## 01.06 - Objects
+
+|  |  |
+| :---: | :---: |
+| Lecture Recording | [To Do](https://strategiced.zoom.us/rec/share/LPueaReu52dd6quDC9zTNyXXT0TgqVgYO423XVLSgoI0Qb0jDJkFvO_rTuNp9lls.Q9DCHyWPcD2eod4J?startTime=1714091366000) |
+| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-objects/) |
+| dmget | `dmget wb-objects --demo` |
+
+### Code Along: Objects
+
+|  |  |
+| :---: | :---: |
+| Recording | [Link](https://strategiced.zoom.us/rec/share/JM3OohbQHgWA765OCMoRpF_vvrVJfUUNmWZxAsdsUhBThomovGKVuXp_kMpz09J0.bCE74japbjkWh58F?startTime=1714097804000) |
+| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-objects-code-along/) |
+| dmget | `dmget wb-objects-code-along` |
+
+### Lab: Objects
+
+|  |  |
+| :---: | :---: |
+| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-objects-lab/) |
+| dmget | `dmget wb-objects-lab` |
 
 > [Back to Table of Contents](#table-of-contents)
