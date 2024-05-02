@@ -92,7 +92,7 @@
 |  |  |
 | :---: | :---: |
 | Lecture Recording (Diego) | [To Do](https://strategiced.zoom.us/rec/share/uP_UdgxzwkI3Q0XMRMuDK2hZCvI8eNLKbFhTqmGzPW1PFfd_Y0iey5I6R0Lda5A.wZ5DSelMyRBtsC-w?startTime=1713494217000) |
-| Lecture Recording (Matt) | [To Do]() |
+| Lecture Recording (Matt) | [To Do](https://strategiced.zoom.us/rec/play/M_MZ2b0ZKCgU6urondlpkhGwy3xKtQcuXfoDDCZSaGvA7Yj6rLWoYngFyfdpRcH6g-UjGwCf6x4C0bBS.dDj5-nivjfLOadZE?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fstrategiced.zoom.us%2Frec%2Fshare%2FADUP7ylXRokSl6Vp5pD5_0GZ2ULiAmWveDhX2PhLx6kokay-oqbVMv1k87nbfrxg.ZTlZaLVlxs7ihzYK&autoplay=true&startTime=1713625763000) |
 | Slides | [Link](https://ed.devmountain.com/materials/ogptlh2/slides/wb-js-intro/) |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-js-intro/) |
 | dmget | `dmget wb-js-intro --demo` |
@@ -112,7 +112,7 @@
 
 |  |  |
 | :---: | :---: |
-| Lecture Recording | [To Do]() |
+| Lecture Recording | [Link](https://strategiced.zoom.us/rec/play/M_MZ2b0ZKCgU6urondlpkhGwy3xKtQcuXfoDDCZSaGvA7Yj6rLWoYngFyfdpRcH6g-UjGwCf6x4C0bBS.dDj5-nivjfLOadZE?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fstrategiced.zoom.us%2Frec%2Fshare%2FADUP7ylXRokSl6Vp5pD5_0GZ2ULiAmWveDhX2PhLx6kokay-oqbVMv1k87nbfrxg.ZTlZaLVlxs7ihzYK&autoplay=true&startTime=1713635249000) |
 | Slides | [Link](https://ed.devmountain.com/materials/ogptlh2/slides/wb-arrays-looping/) |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-arrays-looping/) |
 | dmget | `dmget wb-arrays-looping --demo` |
@@ -184,7 +184,7 @@
 
 |  |  |
 | :---: | :---: |
-| Lecture Recording | [To Do]() |
+| Lecture Recording | [Link](https://strategiced.zoom.us/rec/share/TyJy-OSBawxqYGM-rn7fLw1UmOLUIvYWzOgStm-u1UYCXP_WndTKsWaCKK2Bsl_D.9s_hiqYA2ORjdqww?startTime=1714522880000) |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-arrows-callbacks/) |
 | dmget | `dmget wb-arrows-callbacks --demo` |
 | Live Server | [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |
