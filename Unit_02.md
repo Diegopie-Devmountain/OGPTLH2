@@ -1,22 +1,30 @@
-<!-- # Table of Contents
+# Table of Contents
 
 - [Table of Contents](#table-of-contents)
-  - [01.02 - The Shell](#0102---the-shell)
-    - [Code Along: Version Control with Git](#code-along-version-control-with-git)
+  - [02.01 - Intro to HTML and CSS](#0201---intro-to-html-and-css)
+    - [Code Along:](#code-along)
+    - [Lab:](#lab)
 
-## 01.02 - The Shell
-
-|  |  |
-| :---: | :---: |
-| Lecture Recording | Add link |
-| Slides | [Link](https://ed.devmountain.com/materials/ogptlh2/slides/wb-shell/) |
-| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-shell/) |
-
-### Code Along: Version Control with Git
+## 02.01 - Intro to HTML and CSS
 
 |  |  |
 | :---: | :---: |
-| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-git/) |
+| Lecture Recording | [To Do]() |
+| Slides | [Link]() |
+| Handout | [Link]() |
+
+### Code Along: 
+
+|  |  |
+| :---: | :---: |
+| Handout | [Link]() |
+| dmget | `` |
+
+### Lab: 
+
+|  |  |
+| :---: | :---: |
+| Handout | [Link]() |
+| dmget | `` |
 
 > [Back to Table of Contents](#table-of-contents)
- -->

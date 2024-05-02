@@ -16,6 +16,9 @@
   - [01.06 - Objects](#0106---objects)
     - [Code Along: Objects](#code-along-objects)
     - [Lab: Objects](#lab-objects)
+  - [01.07 - Arrow Functions, Callbacks, and Array Iteration Methods](#0107---arrow-functions-callbacks-and-array-iteration-methods)
+    - [Code Along: Arrow Functions](#code-along-arrow-functions)
+    - [Lab: Callbacks and Higher Order Functions](#lab-callbacks-and-higher-order-functions)
 
 ## 01.01 - Web Development Orientation
 
@@ -142,7 +145,6 @@
 | Convert Numbers to Strings | [Link](https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/) |
 | Math Object | [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) |
 | Open in Browser | [Link](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) |
-| Live Server | [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |
 
 ### Lab: Calculator
 
@@ -157,7 +159,7 @@
 
 |  |  |
 | :---: | :---: |
-| Lecture Recording | [To Do](https://strategiced.zoom.us/rec/share/LPueaReu52dd6quDC9zTNyXXT0TgqVgYO423XVLSgoI0Qb0jDJkFvO_rTuNp9lls.Q9DCHyWPcD2eod4J?startTime=1714091366000) |
+| Lecture Recording | [Link](https://strategiced.zoom.us/rec/share/LPueaReu52dd6quDC9zTNyXXT0TgqVgYO423XVLSgoI0Qb0jDJkFvO_rTuNp9lls.Q9DCHyWPcD2eod4J?startTime=1714091366000) |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-objects/) |
 | dmget | `dmget wb-objects --demo` |
 
@@ -175,5 +177,35 @@
 | :---: | :---: |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-objects-lab/) |
 | dmget | `dmget wb-objects-lab` |
+
+> [Back to Table of Contents](#table-of-contents)
+
+## 01.07 - Arrow Functions, Callbacks, and Array Iteration Methods
+
+|  |  |
+| :---: | :---: |
+| Lecture Recording | [To Do]() |
+| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-arrows-callbacks/) |
+| dmget | `dmget wb-arrows-callbacks --demo` |
+| Live Server | [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |
+| Reduce MDN | [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce) |
+| Visualize Reduce | [Link](https://www.youtube.com/watch?v=VjPtvqHxV94&t=213s&ab_channel=CodingMadeClear) |
+| Slice MDN | [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice) |
+| How Modulo Works| [Link](https://www.freecodecamp.org/news/javascript-modulo-operator-how-to-use-the-modulus-in-js/) |
+| Sort MDN| [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) |
+
+### Code Along: Arrow Functions
+
+|  |  |
+| :---: | :---: |
+| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-arrow-fns/#code-along-arrow-functions) |
+| dmget | `dmget wb-arrow-fns` |
+
+### Lab: Callbacks and Higher Order Functions
+
+|  |  |
+| :---: | :---: |
+| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-callbacks/) |
+| dmget | `dmget wb-callbacks` |
 
 > [Back to Table of Contents](#table-of-contents)
