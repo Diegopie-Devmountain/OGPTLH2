@@ -2,29 +2,29 @@
 
 - [Table of Contents](#table-of-contents)
   - [02.01 - Intro to HTML and CSS](#0201---intro-to-html-and-css)
-    - [Code Along:](#code-along)
-    - [Lab:](#lab)
+    - [Lab: Marking Up and Styling a Webpage](#lab-marking-up-and-styling-a-webpage)
+    - [Lab: Clone a Layout](#lab-clone-a-layout)
 
 ## 02.01 - Intro to HTML and CSS
 
 |  |  |
 | :---: | :---: |
 | Lecture Recording | [To Do]() |
-| Slides | [Link]() |
-| Handout | [Link]() |
+| Slides | [Link](https://ed.devmountain.com/materials/ogptlh2/slides/wb-html-css/) |
+| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-html-css/) |
+| dmget | `dmget wb-html-css --demo` |
 
-### Code Along: 
-
-|  |  |
-| :---: | :---: |
-| Handout | [Link]() |
-| dmget | `` |
-
-### Lab: 
+### Lab: Marking Up and Styling a Webpage
 
 |  |  |
 | :---: | :---: |
-| Handout | [Link]() |
-| dmget | `` |
+| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-html-css-basics/) |
+| dmget | `dmget wb-html-css-basics` |
+
+### Lab: Clone a Layout
+
+|  |  |
+| :---: | :---: |
+| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-layout/) |
 
 > [Back to Table of Contents](#table-of-contents)

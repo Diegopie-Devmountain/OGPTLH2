@@ -19,9 +19,6 @@
   - [01.07 - Arrow Functions, Callbacks, and Array Iteration Methods](#0107---arrow-functions-callbacks-and-array-iteration-methods)
     - [Code Along: Arrow Functions](#code-along-arrow-functions)
     - [Lab: Callbacks and Higher Order Functions](#lab-callbacks-and-higher-order-functions)
-  - [01.08 - Intro to HTML and CSS](#0108---intro-to-html-and-css)
-    - [Lab: Marking Up and Styling a Webpage](#lab-marking-up-and-styling-a-webpage)
-    - [Lab: Clone a Layout](#lab-clone-a-layout)
 
 ## 01.01 - Web Development Orientation
 
@@ -210,28 +207,5 @@
 | :---: | :---: |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-callbacks/) |
 | dmget | `dmget wb-callbacks` |
-
-> [Back to Table of Contents](#table-of-contents)
-
-## 01.08 - Intro to HTML and CSS
-
-|  |  |
-| :---: | :---: |
-| Lecture Recording | To do |
-| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-html-css/) |
-| dmget | `dmget wb-html-css --demo` |
-
-### Lab: Marking Up and Styling a Webpage
-
-|  |  |
-| :---: | :---: |
-| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-html-css-basics/) |
-| dmget | `dmget wb-html-css-basics` |
-
-### Lab: Clone a Layout
-
-|  |  |
-| :---: | :---: |
-| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/exercises/wb-layout/) |
 
 > [Back to Table of Contents](#table-of-contents)
