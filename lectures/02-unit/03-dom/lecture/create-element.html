@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Create Element | JS DOM Demo</title>
+  </head>
+  <body>
+    <script>
+      // Generate a <p> element for each fruit
+      const fruits = ['apple', 'berry', 'cherry'];
+      fruits.forEach((fruit) => {
+        const p = document.createElement('p');
+        p.innerText = fruit;
+        document.body.appendChild(p);
+      });
+    </script>
+  </body>
+</html>

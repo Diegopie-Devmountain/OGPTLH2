@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Querying the DOM | JS DOM Demo</title>
+  </head>
+  <body>
+    <ul>
+      <li>apple</li>
+      <li>berry</li>
+      <li>cherry</li>
+    </ul>
+
+    <script>
+      // Get the first <li> element
+      const myLi = document.querySelector('li');
+      console.log(myLi); // <li>apple</li>
+    </script>
+
+    <script>
+      // Get all the <li> elements
+      const allLis = document.querySelectorAll('li');
+      console.log(allLis); // NodeList(3) [li, li, li]
+    </script>
+
+    <script>
+      // Using NodeList objects
+      console.log(allLis[0]); // <li>apple</li>
+
+      allLis.forEach((li) => {
+        console.log(li.innerText);
+      });
+    </script>
+
+    <article class="content">
+      <section id="first" class="intro">
+        <p>Section 1</p>
+        <ol class="steps">
+          <li>one</li>
+          <li>two</li>
+          <li>three</li>
+        </ol>
+      </section>
+      <section>
+        <p>Section 2</p>
+        <ol class="steps">
+          <li>four</li>
+          <li>five</li>
+          <li>six</li>
+        </ol>
+      </section>
+      <section>
+        <p>Section 3</p>
+      </section>
+    </article>
+
+    <script>
+      // Using different CSS selectors
+      const a = document.querySelector('.content');
+      console.log(a);
+
+      const b = document.querySelector('#first');
+      console.log(b);
+
+      const c = document.querySelectorAll('.steps li');
+      console.log(c);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Node Properties | JS DOM Demo</title>
+    <style>
+      img {
+        width: 150px;
+        height: 150px;
+      }
+    </style>
+  </head>
+  <body>
+    <ul id="innerText-example">
+      <li>apple</li>
+      <li>berry</li>
+      <li>cherry</li>
+    </ul>
+
+    <ul id="innerHTML-example">
+      <li>artichoke</li>
+      <li>broccoli</li>
+      <li>cabbage</li>
+    </ul>
+
+    <img id="attribute-example" src="static/cat.jpg" />
+
+    <p id="class-example">Hello</p>
+
+    <style>
+      .red {
+        color: red;
+      }
+      .bold {
+        font-weight: bold;
+      }
+    </style>
+
+    <button id="style-example">The quick brown fox jumps over the lazy dog.</button>
+
+    <button id="remove-example">Remove this button</button>
+    <br /><br />
+    <label for="value-example">Enter your email:</label>
+    <input id="value-example" type="text" />
+
+    <!-- <script src="static/node-properties.js"></script> -->
+    <script> 
+      const p = document.querySelector('#class-example');
+
+      p.className = 'red bold'
+
+      // p.classList.remove('red')
+
+      console.log(p.classList.contains('red'));
+
+      p.classList.toggle('red')
+
+      console.dir(p);
+    </script>
+  </body>
+</html>

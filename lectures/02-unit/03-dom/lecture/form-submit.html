@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form Submit | JS DOM Demo</title>
+  </head>
+  <body>
+    <form>
+      <label for="email">Email</label>
+      <input id="email" type="text" />
+
+      <label for="password">Password (min. 8 chars)</label>
+      <input id="password" type="password" />
+
+      <input type="submit" />
+    </form>
+
+    <script>
+      document.querySelector('form').addEventListener('submit', (evt) => {
+        evt.preventDefault();
+        const password = document.querySelector('#password').value;
+        if (password.length < 8) {
+          alert('Password is too short!');
+        }
+      });
+    </script>
+  </body>
+</html>

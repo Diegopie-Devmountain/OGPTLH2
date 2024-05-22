@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Session Demo</title>
+  </head>
+  <body>
+    {% if email %}
+    <p>Hello {{email}}!</p>
+    <a href="/logout">Logout</a>
+    {% else %}
+    <a href="/login">Please login.</a>
+    {% endif %}
+  </body>
+</html>

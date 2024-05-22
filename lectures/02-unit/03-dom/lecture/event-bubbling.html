@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Event Bubbling | JS DOM Demo</title>
+    <style>
+      .parent {
+        border: 1px solid black;
+        padding-bottom: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="parent">
+      <button class="child">Click Me</button>
+    </div>
+
+    <form>
+      <label for="email">Email</label>
+      <input id="email" type="text" />
+    
+      <label for="password">Password (min. 8 chars)</label>
+      <input id="password" type="password" />
+    
+      <input type="submit" />
+    </form>
+
+    <ul>
+      <li class="list">apple</li>
+      <li class="list">berry</li>
+      <li class="list">cherry</li>
+    </ul>
+
+    <script>
+      const parentDiv = document.querySelector('.parent');
+      const childButton = document.querySelector('.child');
+
+
+      parentDiv.addEventListener('click', () => {
+        console.log('parent was clicked');
+      })
+
+      childButton.addEventListener('click', (event) => {
+        event.stopPropagation()
+        console.log('child was clicked');
+      })
+
+      // parentDiv.addEventListener('click', () => {
+      //   console.log('parent was clicked');
+      // });
+
+      // childButton.addEventListener('click', () => {
+      //   console.log('child was clicked');
+      // });
+
+        document.querySelector('form').addEventListener('submit', (e) => {
+          e.preventDefault();
+          const password = document.querySelector('#password').value;
+          console.log(password);
+
+          if(password.length < 8 ) {
+            alert("password no good")
+            return
+          }
+          
+        })
+
+
+        console.log(document.getElementsByClassName('list'));
+    document.getElementsByClassName('list').addEventListener('click', (e) => {
+      console.log('clicked list');
+    })
+
+    </script>
+  </body>
+</html>
