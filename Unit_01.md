@@ -25,8 +25,11 @@
 |  |  |
 | :---: | :---: |
 | Lecture Recording | [Link](https://strategiced.zoom.us/rec/share/8zHcEfoPLQ8rp8Ahu5-UQ9m6HgP5Q4SpNZzG_54qMgNzpqN_j9wVAlWxQAvaOkQz.OFHVENKt9sBj2jxM) |
+| Window Set Up Postgres 15 | [Link](https://strategiced.zoom.us/rec/share/1mchWcTeKl-Jzx5UkPzfETIK5ko3X6naiDx1ykQKfc_zmWgN8tL5cPsmfuRH6vje.PO2DVa7wBI_ZDaRn?startTime=1718152404000) |
 | Slides | [Link](https://slides.com/dmweb/lehi-web-immersive-orientation) |
 | Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-orientation/) |
+
+On Mac, run this command to fix Postgres15 issue `brew link postgresql@15`
 
 ### Lab: Intro To Outcomes
 
