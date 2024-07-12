@@ -1,6 +1,6 @@
 import lodash from 'lodash';
-import { db } from '../server/config/db.js';
-import { Movie, Rating, User } from '../server/models/index.js';
+import { db } from '../config/db.js';
+import { Movie, Rating, User } from '../models/index.js';
 import movieData from './data/movies.json' assert { type: 'json' };
 
 console.log('Syncing database...');
