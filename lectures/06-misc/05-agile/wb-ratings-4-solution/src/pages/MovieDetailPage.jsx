@@ -10,7 +10,7 @@ export default function MovieDetailPage() {
 
   const handleCreateRating = async (event, { score }) => {
     event.preventDefault();
-    const res = await axios.post('/api/ratings', { score: score, movieId: movieId });
+    const res = await axios.post('/api/ratings/new', { score: score, movieId: movieId });
     if (res.data) {
       navigate('/me');
     }

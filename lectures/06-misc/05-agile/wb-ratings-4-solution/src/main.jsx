@@ -27,7 +27,7 @@ const router = createBrowserRouter(
         path="movies"
         element={<AllMoviesPage />}
         loader={async () => {
-          const res = await axios.get('/api/movies');
+          const res = await axios.get('/api/movies/all');
           return { movies: res.data };
         }}
       />
@@ -50,7 +50,7 @@ const router = createBrowserRouter(
         path="me"
         element={<YourRatingsPage />}
         loader={async () => {
-          const res = await axios.get('/api/ratings');
+          const res = await axios.get('/api/ratings/all');
           return { ratings: res.data };
         }}
       />
