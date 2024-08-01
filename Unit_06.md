@@ -1,36 +1,73 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
+  - [06.01 - Redux Intro](#0601---redux-intro)
+    - [Lab: News Today App](#lab-news-today-app)
+  - [06.02 - Unit Testing](#0602---unit-testing)
+    - [Lab: Unit Tests](#lab-unit-tests)
+  - [06.03 - Testing React](#0603---testing-react)
+    - [Lab: Testing React](#lab-testing-react)
+  - [06.04 - Bootstrap and React Bootstrap](#0604---bootstrap-and-react-bootstrap)
+  - [06.06 - Web Design Principles](#0606---web-design-principles)
+    - [Lab: Ratings Refactor](#lab-ratings-refactor)
+  - [06.06 - Web Design Principles](#0606---web-design-principles-1)
   - [06.01 -](#0601--)
     - [Lab: SQL Quiz](#lab-sql-quiz)
-  - [06.01 -](#0601---1)
-    - [Lab: SQL Quiz](#lab-sql-quiz-1)
-  - [06.01 -](#0601---2)
-    - [Lab: SQL Quiz](#lab-sql-quiz-2)
-  - [06.01 -](#0601---3)
-    - [Lab: SQL Quiz](#lab-sql-quiz-3)
-  - [06.01 -](#0601---4)
-    - [Lab: SQL Quiz](#lab-sql-quiz-4)
-  - [06.01 -](#0601---5)
-    - [Lab: SQL Quiz](#lab-sql-quiz-5)
-  - [06.01 -](#0601---6)
-    - [Lab: SQL Quiz](#lab-sql-quiz-6)
 
-## 06.01 - 
+## 06.01 - Redux Intro
 
 |  |  |
 | :---: | :---: |
-| Lecture Recording | [Link](https://strategiced.zoom.us/rec/share/pljz6FyEamOfnjVthHAfMRIaA_5UZEv7you-DJevAFttJSe5vfvKBOGCqYWt0cjH.YFoevewuvvr_j-Ig?startTime=1719675642000) |
-| Slides | [Link](https://ed.devmountain.com/materials/ogptlh2/slides/wb-redux/) |
-| Handout | [Link](https://ed.devmountain.com/materials/ogptlh2/lectures/wb-redux/) |
-| dmget | `dmget wb-redux --demo` |
+| Lecture Recording | [Link](https://strategiced.zoom.us/rec/share/t5NJMSAyGChwX_aetLW06RYj6kvaoS_U_c4ipt52x60oKcNYUe3-N0bRcAQqQwm3.v3bJKukDn3hS2ZXM?startTime=1719675642000) |
 
-### Lab: SQL Quiz
+### Lab: News Today App
+
+> [Back to Table of Contents](#table-of-contents)
+
+## 06.02 - Unit Testing
 
 |  |  |
 | :---: | :---: |
-| Handout | [Link]() |
-| dmget | `dmget` |
+| Lecture Recording | [Link](https://strategiced.zoom.us/rec/share/4Yp1vGkWZPFUDKLhg-NQJFVO-uptcmccuTF3m9iuwbacnsuFb8Xtgyda0FcZZnv5.wabTs571_yiV56J8?startTime=1719696260000) |
+
+### Lab: Unit Tests
+
+> [Back to Table of Contents](#table-of-contents)
+
+## 06.03 - Testing React
+
+|  |  |
+| :---: | :---: |
+| Lecture Recording | [Link](https://strategiced.zoom.us/rec/share/TrqeKocnd2dnL4gBIRBnXPkIL2dSU9cveuqnH8oWTqN-6Z9InW77LLZ_55Qfo7PA.v_1qBGDoIkcD5WAO?startTime=1719969821000) |
+
+### Lab: Testing React
+
+> [Back to Table of Contents](#table-of-contents)
+
+## 06.04 - Bootstrap and React Bootstrap
+
+|  |  |
+| :---: | :---: |
+| Bootstrap Demo Recording | [Link](https://strategiced.zoom.us/rec/share/NRffRqWjKPGEnrIUJbPZHijc45UYz6gXH_ztpbck6gmiIBlxKWCsVGKF1eXDQRJK.iTyA5a8PupVXZsws?startTime=1720474436000) |
+| Tailwind Demo Recording | [Link](https://strategiced.zoom.us/rec/share/C8Gs4ipqCVlh9JpsBpW6LmZzCqEQ91HvWYIKvE7cbozeEDNINd1O9O12CfYxw5jl.94hoL8UFPYT4WZL1?startTime=1720570869000) |
+
+> [Back to Table of Contents](#table-of-contents)
+
+## 06.06 - Web Design Principles
+
+|  |  |
+| :---: | :---: |
+| Lecture Recording | [Link](https://strategiced.zoom.us/rec/share/5sAMKAbu2SwZto4sTk5dpx_Qous9xx3Z5SP3XbA5dV4M0_x0BL1eyu3UrsFQ6rD4.wt7iO6WDAmWfyYUj?startTime=1720742781000) |
+
+### Lab: Ratings Refactor
+
+> [Back to Table of Contents](#table-of-contents)
+
+## 06.06 - Web Design Principles
+
+|  |  |
+| :---: | :---: |
+| Lecture Recording | [Link]() |
 
 > [Back to Table of Contents](#table-of-contents)
 
@@ -45,99 +82,5 @@
 
 ### Lab: SQL Quiz
 
-|  |  |
-| :---: | :---: |
-| Handout | [Link]() |
-| dmget | `dmget` |
-
-> [Back to Table of Contents](#table-of-contents)
-
-## 06.01 - 
-
-|  |  |
-| :---: | :---: |
-| Lecture Recording | [Link]() |
-| Slides | [Link]() |
-| Handout | [Link]() |
-| dmget | `dmget` |
-
-### Lab: SQL Quiz
-
-|  |  |
-| :---: | :---: |
-| Handout | [Link]() |
-| dmget | `dmget` |
-
-> [Back to Table of Contents](#table-of-contents)
-
-## 06.01 - 
-
-|  |  |
-| :---: | :---: |
-| Lecture Recording | [Link]() |
-| Slides | [Link]() |
-| Handout | [Link]() |
-| dmget | `dmget` |
-
-### Lab: SQL Quiz
-
-|  |  |
-| :---: | :---: |
-| Handout | [Link]() |
-| dmget | `dmget` |
-
-> [Back to Table of Contents](#table-of-contents)
-
-## 06.01 - 
-
-|  |  |
-| :---: | :---: |
-| Lecture Recording | [Link]() |
-| Slides | [Link]() |
-| Handout | [Link]() |
-| dmget | `dmget` |
-
-### Lab: SQL Quiz
-
-|  |  |
-| :---: | :---: |
-| Handout | [Link]() |
-| dmget | `dmget` |
-
-> [Back to Table of Contents](#table-of-contents)
-
-## 06.01 - 
-
-|  |  |
-| :---: | :---: |
-| Lecture Recording | [Link]() |
-| Slides | [Link]() |
-| Handout | [Link]() |
-| dmget | `dmget` |
-
-### Lab: SQL Quiz
-
-|  |  |
-| :---: | :---: |
-| Handout | [Link]() |
-| dmget | `dmget` |
-
-> [Back to Table of Contents](#table-of-contents)
-
-## 06.01 - 
-
-|  |  |
-| :---: | :---: |
-| Lecture Recording | [Link]() |
-| Slides | [Link]() |
-| Handout | [Link]() |
-| dmget | `dmget` |
-
-### Lab: SQL Quiz
-
-|  |  |
-| :---: | :---: |
-| Handout | [Link]() |
-| dmget | `dmget` |
 
 > [Back to Table of Contents](#table-of-contents)
