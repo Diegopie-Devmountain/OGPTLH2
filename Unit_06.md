@@ -8,11 +8,10 @@
   - [06.03 - Testing React](#0603---testing-react)
     - [Lab: Testing React](#lab-testing-react)
   - [06.04 - Bootstrap and React Bootstrap](#0604---bootstrap-and-react-bootstrap)
-  - [06.06 - Web Design Principles](#0606---web-design-principles)
+  - [06.05 - Agile Software Methodology](#0605---agile-software-methodology)
     - [Lab: Ratings Refactor](#lab-ratings-refactor)
-  - [06.06 - Web Design Principles](#0606---web-design-principles-1)
-  - [06.01 -](#0601--)
-    - [Lab: SQL Quiz](#lab-sql-quiz)
+  - [06.06 - Web Design Principles](#0606---web-design-principles)
+  - [06.07 - Git Branching](#0607---git-branching)
 
 ## 06.01 - Redux Intro
 
@@ -53,7 +52,7 @@
 
 > [Back to Table of Contents](#table-of-contents)
 
-## 06.06 - Web Design Principles
+## 06.05 - Agile Software Methodology
 
 |  |  |
 | :---: | :---: |
@@ -67,20 +66,15 @@
 
 |  |  |
 | :---: | :---: |
-| Lecture Recording | [Link]() |
+| Lecture Recording | [Link](https://strategiced.zoom.us/rec/share/PQYDNM849ZXD3fMiiqxN4ViEIg3TGDJZA4gpKQLDXD_aDPTAPiFwU75os2zW8rAn.E_ndkbCGKrBWOBwa?startTime=1720883412000) |
 
 > [Back to Table of Contents](#table-of-contents)
 
-## 06.01 - 
+## 06.07 - Git Branching
 
 |  |  |
 | :---: | :---: |
-| Lecture Recording | [Link]() |
-| Slides | [Link]() |
-| Handout | [Link]() |
-| dmget | `dmget` |
-
-### Lab: SQL Quiz
-
+| Lecture Recording | [Link](https://strategiced.zoom.us/rec/share/PQYDNM849ZXD3fMiiqxN4ViEIg3TGDJZA4gpKQLDXD_aDPTAPiFwU75os2zW8rAn.E_ndkbCGKrBWOBwa?startTime=1720887161000) |
+| dmget | `dmget wb-git-branching --demo` |
 
 > [Back to Table of Contents](#table-of-contents)

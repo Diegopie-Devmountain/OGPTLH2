@@ -90,6 +90,10 @@ firstList.append('durian');
 
 firstList.remove('cherry')
 
+
+const secondList = new LinkedList();
+
+
 // appleNode.next = berryNode;
 // appleNode.next.next = cherryNode;
 
