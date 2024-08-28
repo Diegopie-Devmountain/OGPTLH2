@@ -5,8 +5,10 @@
   - [07.02 - Runtime Complexity](#0702---runtime-complexity)
   - [Classes and OOP Review](#classes-and-oop-review)
   - [07.03 - Stacks and Queues](#0703---stacks-and-queues)
-  - [Bonus: Responsive Design](#bonus-responsive-design)
   - [07.04 - Linked Lists](#0704---linked-lists)
+  - [Lab: Switch Linked List](#lab-switch-linked-list)
+  - [07.05 - Trees](#0705---trees)
+  - [07.06 - Recursion](#0706---recursion)
 
 ## 07.01 - Whiteboarding
 
@@ -36,15 +38,7 @@
 |  |  |
 | :---: | :---: |
 | Lecture Recording | [Link](https://strategiced.zoom.us/rec/share/-5T1pn38gomJz2s-5O8pjsRFl2jWhViTkt6JF9YsClY0OxRmw5rLfyni0lmv53Bb.DI_XGTdwuQRy_K7e?startTime=1721955993000) |
-
-> [Back to Table of Contents](#table-of-contents)
-
-## Bonus: Responsive Design
-
-|  |  |
-| :---: | :---: |
 | Nint. Switch Queues | [Link](https://strategiced.zoom.us/rec/share/OeWdXgEP-YIr1CfHmPdt1tdVnKZwFUIY853PzurQrNlq0XqFQbiBuHcZbNSzdJJF.xcFjOXJIGCzDP4oM?startTime=1722098733000) |
-| Bonus: Responsive Design | [Link](https://strategiced.zoom.us/rec/share/OeWdXgEP-YIr1CfHmPdt1tdVnKZwFUIY853PzurQrNlq0XqFQbiBuHcZbNSzdJJF.xcFjOXJIGCzDP4oM?startTime=1722102300000) |
 
 > [Back to Table of Contents](#table-of-contents)
 
@@ -53,11 +47,18 @@
 |  |  |
 | :---: | :---: |
 | Lecture Recording | [Link](https://strategiced.zoom.us/rec/share/c0k9Ez_C2EAdGwouv8MLzHpPAsOCDM0iCJLWqIZsddeyiGqWRQtiHpEO7xBMgOl0.zcD36Y4G2nAr-RKy?startTime=1722385790000) |
+| Doubly Linked List Recording | [Link](https://strategiced.zoom.us/rec/share/H20T-bWeHbqf5qdCs0woVckINue99DkyfqQlzQPKBqm-s8a2VcGo9LysrSPffC6Q.zuiWMIl83KMmloPd?startTime=1722558561000) |
 | Garbage Collector | [Link](https://dev.to/_staticvoid/node-js-under-the-hood-9-collecting-the-garbage-772) |
 
 > [Back to Table of Contents](#table-of-contents)
->
-> ## 07.05 - Trees
+
+## Lab: Switch Linked List
+
+| Intro Recording | [Link]([Lab: Switch Linked List](https://strategiced.zoom.us/rec/share/rAdTXTbSp_OWQ0WTViNoVtcq4ftQVuknNdsMKMzQWFSbxaw_lUBCSpbPJ1soeQd0.I2Vc7kljdJTHBoIe?startTime=1722998653000)) |
+| Lab Repo | [Link](https://github.com/Diegopie-Devmountain/switch-linked-list) |
+| Visual Linked List | [Link](https://github.com/Diegopie-Devmountain/visual-linked-list) |
+
+## 07.05 - Trees
 
 |  |  |
 | :---: | :---: |
@@ -70,3 +71,8 @@
 
 > [Back to Table of Contents](#table-of-contents)
 
+## 07.06 - Recursion
+
+|  |  |
+| :---: | :---: |
+| Lecture Recording | [Link](https://strategiced.zoom.us/rec/share/leGR439G4NM98jm44nPGHidItMp2NwXHOr93ER4rkhi_GNn1iIFWGZ--5hIQI3Ap.IFdHo8iEMumv92ND?startTime=1723318871000) |
